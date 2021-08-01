@@ -1,7 +1,5 @@
 # Bioinformatics_course_project
 
-# Bioinformatics_course_project
-
 This is the project realized for the Bioinformatics course of Università degli studi di Milano.
 
 The main goal of the project consist in the prediction of active and inactive regions (promoters and enhancers) of the cell line GM12878 of the human genome (hg38).
