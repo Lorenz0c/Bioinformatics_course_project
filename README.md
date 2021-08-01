@@ -3,7 +3,7 @@
 This is the project realized for the Bioinformatics course of Università degli studi di Milano.
 
 The main goal of the project consist in the prediction of active and inactive regions (promoters and enhancers) of the cell line GM12878 of the human genome (hg38).
-Two different types of data have been used to try to achive this proposition: the epigenomic data obtained form the [ENCODE](https://www.encodeproject.org/) dataset, and the sequence data obtained the Genome website. 
+Two different types of data have been used to try to achive this proposition: the epigenomic data obtained form the [ENCODE](https://www.encodeproject.org/) dataset, and the genomic sequence data obtained the [UCSC genome browser](https://genome.ucsc.edu/). 
 
 The bio_data_elaboration_representation file aims is the graphical visualization of different characteristic of both the enhancers and the promoters, and contains the preprocessing steps necessary to obtain the data to visualize.
 
